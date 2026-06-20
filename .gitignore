@@ -40,5 +40,13 @@ sysinfo.txt
 *.unitypackage
 *.app
 
+# Tooling (claude-flow / ruflo local data)
+.claude-flow/
+.ruflo/
+.mcp.json
+
+# VS solution files
+*.slnx
+
 # OS
 .DS_Store
