@@ -1,0 +1,14 @@
+{
+  "id": "session-1780963359238",
+  "startedAt": "2026-06-09T00:02:39.238Z",
+  "cwd": "/Users/abubakardiallo/UnityProjects/My project (1)",
+  "context": {},
+  "metrics": {
+    "edits": 0,
+    "commands": 0,
+    "tasks": 0,
+    "errors": 0
+  },
+  "endedAt": "2026-06-09T00:27:43.226Z",
+  "duration": 1503995
+}
